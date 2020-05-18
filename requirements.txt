@@ -1,0 +1,7 @@
+Tensoflow 
+keras (standalone)
+nltk
+pandas 
+numpy 
+VGG16 (Pretrained CNN Model)
+flask 
