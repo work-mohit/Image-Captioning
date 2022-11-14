@@ -22,7 +22,7 @@ language like English. Here are some objectives of this project :
 ● Train a model to generate captions.<br>
 ● Deploy the model as a web app so it can be used globally.<br>
 
-![alt text](Screenshots/2.PNG?raw=true "Optional Title" height="60" width="60")
+![alt text](Screenshots/2.PNG?raw=true "Optional Title")
 
 
 Many popular computer vision applications involve trying to recognize things in 
@@ -70,14 +70,20 @@ noted that none of the networks (except for one) contain Local Response Normalis
 (LRN), such normalization does not improve the performance on the ILSVRC dataset, but 
 leads to increased memory consumption and computation time.
 <br><br>
+## CNN Architecture 
 ![alt text](Screenshots/vgg_arch.png?raw=true "Optional Title")
 <br><br>
+## RNN Architecture
 ![alt text](Screenshots/lstm.png?raw=true "Optional Title")
 <br><br>
+## Preview Of The Combined Model
 ![alt text](Screenshots/3.png?raw=true "Optional Title")
 <br><br>
+## Results 
 ![alt text](Screenshots/4.png?raw=true "Optional Title")
 ![alt text](Screenshots/5.png?raw=true "Optional Title")
 ![alt text](Screenshots/6.png?raw=true "Optional Title")
 ![alt text](Screenshots/7.png?raw=true "Optional Title")
 ![alt text](Screenshots/8.png?raw=true "Optional Title")
+<br><br>
+# Thank you for coming this far! 
